@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <Routes>
-        <Route path="/multiverse" element={<Home />} />
+        <Route path="/multiuniverse" element={<Home />} />
         <Route path="/multiverse/blackhole" element={<BlackHoles />} />
         <Route path="/multiverse/darkMatter" element={<DarkMatter />} />
       </Routes>
